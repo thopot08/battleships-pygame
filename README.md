@@ -15,3 +15,4 @@ battleships remade in pygame with some extra features (group project)
 # stuff i learned
 - more object oriented programming, especially methods
 - keeping program split up into different files and importing them into the main file
+- menu handling loooots of menus
